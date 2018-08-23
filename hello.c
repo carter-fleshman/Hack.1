@@ -1,12 +1,15 @@
-
+/**
+* Date: 8/23/2018
+* Authors: Carter, David, Chad
+*/
 
 
 #include<stdlib.h>
 #include<stdio.h>
 
-int main(int argc, char **argv) {
+int main(void) {
 
-  printf("Hello Carlie and David!\n");
+  printf("My namd is David and I am studying computer engineering\n");
 
   return 0;
 }
