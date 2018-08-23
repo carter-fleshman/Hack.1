@@ -9,7 +9,7 @@
 
 int main(void) {
 
-  printf("My namd is David and I am studying computer engineering\n");
+  printf("My namd is David and I am studying computer engineering\nMy name is Carter Fleshman and I am studying mechanical engineering\n");
 
   return 0;
 }
